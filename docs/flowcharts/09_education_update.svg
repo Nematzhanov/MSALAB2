@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="748" height="1651" viewBox="0 0 748 1651"><rect width="100%" height="100%" fill="white"/><polyline points="127.0,88.0 127.0,103.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,219.0 127.0,249.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,365.0 127.0,395.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="379.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="214.0,307.0 591.0,307.0 591.0,249.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="293.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="127.0,511.0 127.0,541.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="525.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="214.0,453.0 591.0,453.0 591.0,395.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="439.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="214.0,599.0 359.0,599.0 359.0,687.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="585.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="127.0,657.0 127.0,979.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="671.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="359.0,803.0 359.0,833.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="367.0" y="817.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="446.0,745.0 504.0,745.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="452.0" y="731.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="446.0,891.0 504.0,891.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="452.0" y="877.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="359.0,949.0 359.0,955.0 127.0,955.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polygon points="127.0,955.0 137.3,951.2 137.3,958.8" fill="black"/>
+<text x="367.0" y="963.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="127.0,1095.0 127.0,1125.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,1241.0 127.0,1271.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,1387.0 127.0,1417.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,1533.0 127.0,1563.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="678.0,307.0 708.0,307.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="678.0,453.0 708.0,453.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="678.0,745.0 708.0,745.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="678.0,891.0 708.0,891.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="708.0,307.0 708.0,1539.0 127.0,1539.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polygon points="127.0,1539.0 137.3,1535.2 137.3,1542.8" fill="black"/>
+<rect x="40.0" y="30.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="59.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Начало</text>
+<polygon points="60.879999999999995,103.0 214.0,103.0 193.12,219.0 40.0,219.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="150.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Получить id и</text>
+<text x="127.0" y="172.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">JSON</text>
+<polygon points="127.0,249.0 214.0,307.0 127.0,365.0 40.0,307.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="296.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Запись</text>
+<text x="127.0" y="318.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">найдена?</text>
+<polygon points="127.0,395.0 214.0,453.0 127.0,511.0 40.0,453.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="442.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Валидация</text>
+<text x="127.0" y="464.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">пройдена?</text>
+<polygon points="127.0,541.0 214.0,599.0 127.0,657.0 40.0,599.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="588.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Статус</text>
+<text x="127.0" y="610.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">изменился?</text>
+<polygon points="359.0,687.0 446.0,745.0 359.0,803.0 272.0,745.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="734.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Новый статус</text>
+<text x="359.0" y="756.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">известен?</text>
+<polygon points="359.0,833.0 446.0,891.0 359.0,949.0 272.0,891.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="880.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Переход</text>
+<text x="359.0" y="902.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">разрешён?</text>
+<rect x="40.0" y="979.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/><line x1="57.400000000000006" y1="979.0" x2="57.400000000000006" y2="1095.0" stroke="black" stroke-width="1.6"/><line x1="196.6" y1="979.0" x2="196.6" y2="1095.0" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="993.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Проверить</text>
+<text x="127.0" y="1015.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">даты,</text>
+<text x="127.0" y="1037.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">персону,</text>
+<text x="127.0" y="1059.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">группу (рис.</text>
+<text x="127.0" y="1081.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">8)</text>
+<rect x="40.0" y="1125.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1183.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">UPDATE education</text>
+<rect x="40.0" y="1271.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/><line x1="57.400000000000006" y1="1271.0" x2="57.400000000000006" y2="1387.0" stroke="black" stroke-width="1.6"/><line x1="196.6" y1="1271.0" x2="196.6" y2="1387.0" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1307.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Отправить</text>
+<text x="127.0" y="1329.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">education.updated</text>
+<text x="127.0" y="1351.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">(рис. 3)</text>
+<rect x="40.0" y="1417.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1453.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 200,</text>
+<text x="127.0" y="1475.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">изменённая</text>
+<text x="127.0" y="1497.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">запись</text>
+<rect x="504.0" y="249.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="591.0" y="296.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 404 «Запись</text>
+<text x="591.0" y="318.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">не найдена»</text>
+<rect x="504.0" y="395.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="591.0" y="442.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 400, список</text>
+<text x="591.0" y="464.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">ошибок</text>
+<rect x="504.0" y="687.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="591.0" y="723.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 400</text>
+<text x="591.0" y="745.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">«Неизвестный</text>
+<text x="591.0" y="767.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">статус»</text>
+<rect x="504.0" y="833.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="591.0" y="869.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 409</text>
+<text x="591.0" y="891.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">«Недопустимый</text>
+<text x="591.0" y="913.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">переход»</text>
+<rect x="40.0" y="1563.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1592.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Конец</text></svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="486" height="921" viewBox="0 0 486 921"><rect width="100%" height="100%" fill="white"/><polyline points="127.0,88.0 127.0,103.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,219.0 127.0,249.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,365.0 127.0,395.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,511.0 127.0,541.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,657.0 127.0,687.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="671.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="214.0,599.0 359.0,599.0 359.0,687.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="585.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="127.0,803.0 127.0,833.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="359.0,803.0 359.0,809.0 127.0,809.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polygon points="127.0,809.0 137.3,805.2 137.3,812.8" fill="black"/>
+<rect x="40.0" y="30.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="59.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Начало</text>
+<polygon points="60.879999999999995,103.0 214.0,103.0 193.12,219.0 40.0,219.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="139.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Получить</text>
+<text x="127.0" y="161.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">сообщение из</text>
+<text x="127.0" y="183.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">своей очереди</text>
+<rect x="40.0" y="249.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="285.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Событие = ключ</text>
+<text x="127.0" y="307.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">сообщения,</text>
+<text x="127.0" y="329.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">разобрать JSON</text>
+<rect x="40.0" y="395.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/><line x1="57.400000000000006" y1="395.0" x2="57.400000000000006" y2="511.0" stroke="black" stroke-width="1.6"/><line x1="196.6" y1="395.0" x2="196.6" y2="511.0" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="431.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Обработать</text>
+<text x="127.0" y="453.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">событие (рис.</text>
+<text x="127.0" y="475.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">6, 13)</text>
+<polygon points="127.0,541.0 214.0,599.0 127.0,657.0 40.0,599.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="599.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Без ошибки?</text>
+<rect x="40.0" y="687.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="723.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">ack: брокер</text>
+<text x="127.0" y="745.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">удаляет</text>
+<text x="127.0" y="767.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">сообщение</text>
+<rect x="272.0" y="687.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="723.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">nack: сообщение</text>
+<text x="359.0" y="745.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">вернуть в</text>
+<text x="359.0" y="767.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">очередь</text>
+<rect x="40.0" y="833.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="862.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Конец</text></svg>

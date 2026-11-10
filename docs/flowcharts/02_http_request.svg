@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="1359" viewBox="0 0 516 1359"><rect width="100%" height="100%" fill="white"/><polyline points="127.0,88.0 127.0,103.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,219.0 127.0,249.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,365.0 127.0,395.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="379.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="214.0,307.0 272.0,307.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="293.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="127.0,511.0 127.0,541.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="525.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="214.0,453.0 272.0,453.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="439.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="127.0,657.0 127.0,687.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="671.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="214.0,599.0 272.0,599.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="585.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="127.0,803.0 127.0,833.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,949.0 127.0,979.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="963.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="214.0,891.0 272.0,891.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="877.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="127.0,1095.0 127.0,1125.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="446.0,307.0 476.0,307.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="446.0,453.0 476.0,453.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="446.0,599.0 476.0,599.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="446.0,891.0 476.0,891.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="476.0,307.0 476.0,1101.0 127.0,1101.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polygon points="127.0,1101.0 137.3,1097.2 137.3,1104.8" fill="black"/>
+<polyline points="127.0,1241.0 127.0,1271.0" fill="none" stroke="black" stroke-width="1.6"/>
+<rect x="40.0" y="30.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="59.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Начало</text>
+<polygon points="60.879999999999995,103.0 214.0,103.0 193.12,219.0 40.0,219.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="150.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Получить</text>
+<text x="127.0" y="172.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">HTTP-запрос</text>
+<polygon points="127.0,249.0 214.0,307.0 127.0,365.0 40.0,307.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="296.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Адрес и метод</text>
+<text x="127.0" y="318.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">есть?</text>
+<polygon points="127.0,395.0 214.0,453.0 127.0,511.0 40.0,453.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="442.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">JSON</text>
+<text x="127.0" y="464.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">корректен?</text>
+<polygon points="127.0,541.0 214.0,599.0 127.0,657.0 40.0,599.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="577.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Валидация</text>
+<text x="127.0" y="599.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">(@Valid)</text>
+<text x="127.0" y="621.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">пройдена?</text>
+<rect x="40.0" y="687.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/><line x1="57.400000000000006" y1="687.0" x2="57.400000000000006" y2="803.0" stroke="black" stroke-width="1.6"/><line x1="196.6" y1="687.0" x2="196.6" y2="803.0" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="723.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Выполнить</text>
+<text x="127.0" y="745.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">метод</text>
+<text x="127.0" y="767.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">контроллера</text>
+<polygon points="127.0,833.0 214.0,891.0 127.0,949.0 40.0,891.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="880.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Возникла</text>
+<text x="127.0" y="902.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">ошибка?</text>
+<rect x="40.0" y="979.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1026.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 200 или 201,</text>
+<text x="127.0" y="1048.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">результат</text>
+<rect x="272.0" y="249.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="307.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 404 или 405</text>
+<rect x="272.0" y="395.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="431.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 400</text>
+<text x="359.0" y="453.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">«Некорректный</text>
+<text x="359.0" y="475.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">JSON»</text>
+<rect x="272.0" y="541.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="577.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 400, список</text>
+<text x="359.0" y="599.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">всех ошибок</text>
+<text x="359.0" y="621.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">данных</text>
+<rect x="272.0" y="833.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="869.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">ErrorHandler:</text>
+<text x="359.0" y="891.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">ошибка → 400,</text>
+<text x="359.0" y="913.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">404, 409 или 500</text>
+<polygon points="60.879999999999995,1125.0 214.0,1125.0 193.12,1241.0 40.0,1241.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1172.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Отправить</text>
+<text x="127.0" y="1194.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">JSON-ответ</text>
+<rect x="40.0" y="1271.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1300.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Конец</text></svg>

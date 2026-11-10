@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="516" height="1213" viewBox="0 0 516 1213"><rect width="100%" height="100%" fill="white"/><polyline points="127.0,88.0 127.0,103.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,219.0 127.0,249.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,365.0 127.0,395.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,511.0 127.0,541.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,657.0 127.0,687.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,803.0 127.0,833.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,949.0 127.0,979.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="963.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="214.0,891.0 272.0,891.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="877.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="127.0,1095.0 127.0,1125.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="446.0,891.0 476.0,891.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="476.0,891.0 476.0,1101.0 127.0,1101.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polygon points="127.0,1101.0 137.3,1097.2 137.3,1104.8" fill="black"/>
+<rect x="40.0" y="30.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="59.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Начало</text>
+<polygon points="60.879999999999995,103.0 214.0,103.0 193.12,219.0 40.0,219.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="139.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Название</text>
+<text x="127.0" y="161.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">события и</text>
+<text x="127.0" y="183.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">данные</text>
+<rect x="40.0" y="249.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="296.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Преобразовать</text>
+<text x="127.0" y="318.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">данные в JSON</text>
+<rect x="40.0" y="395.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="420.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Пометить</text>
+<text x="127.0" y="442.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">сообщение как</text>
+<text x="127.0" y="464.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">постоянное</text>
+<text x="127.0" y="486.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">(PERSISTENT)</text>
+<rect x="40.0" y="541.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="566.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Отправить в</text>
+<text x="127.0" y="588.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">vuz.events, ключ</text>
+<text x="127.0" y="610.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">= название</text>
+<text x="127.0" y="632.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">события</text>
+<rect x="40.0" y="687.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="723.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Ждать</text>
+<text x="127.0" y="745.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">подтверждения</text>
+<text x="127.0" y="767.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">брокера (до 5 с)</text>
+<polygon points="127.0,833.0 214.0,891.0 127.0,949.0 40.0,891.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="880.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Брокер</text>
+<text x="127.0" y="902.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">подтвердил?</text>
+<rect x="40.0" y="979.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1026.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Записать в лог</text>
+<text x="127.0" y="1048.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">«-&gt; событие»</text>
+<rect x="272.0" y="833.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="880.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Ошибка: событие</text>
+<text x="359.0" y="902.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">не отправлено</text>
+<rect x="40.0" y="1125.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1154.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Конец</text></svg>

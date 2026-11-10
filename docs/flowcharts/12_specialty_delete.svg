@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="718" height="1067" viewBox="0 0 718 1067"><rect width="100%" height="100%" fill="white"/><polyline points="127.0,88.0 127.0,103.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,219.0 127.0,249.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,365.0 127.0,395.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="379.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="214.0,307.0 591.0,307.0 591.0,249.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="293.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="127.0,511.0 127.0,541.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,657.0 127.0,687.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="135.0" y="671.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Нет</text>
+<polyline points="214.0,599.0 359.0,599.0 359.0,687.0" fill="none" stroke="black" stroke-width="1.6"/>
+<text x="220.0" y="585.0" font-family="Times New Roman" font-size="17" text-anchor="start" dominant-baseline="central">Да</text>
+<polyline points="127.0,803.0 127.0,833.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="127.0,949.0 127.0,979.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="359.0,803.0 359.0,833.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polyline points="359.0,949.0 359.0,955.0 127.0,955.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polygon points="127.0,955.0 137.3,951.2 137.3,958.8" fill="black"/>
+<polyline points="591.0,365.0 591.0,955.0 127.0,955.0" fill="none" stroke="black" stroke-width="1.6"/>
+<polygon points="127.0,955.0 137.3,951.2 137.3,958.8" fill="black"/>
+<rect x="40.0" y="30.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="59.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Начало</text>
+<rect x="40.0" y="103.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="139.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Найти</text>
+<text x="127.0" y="161.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">специальность по</text>
+<text x="127.0" y="183.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">id</text>
+<polygon points="127.0,249.0 214.0,307.0 127.0,365.0 40.0,307.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="307.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Найдена?</text>
+<rect x="40.0" y="395.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="431.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">n = число групп</text>
+<text x="127.0" y="453.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">этой</text>
+<text x="127.0" y="475.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">специальности</text>
+<polygon points="127.0,541.0 214.0,599.0 127.0,657.0 40.0,599.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="599.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">n &gt; 0 ?</text>
+<rect x="40.0" y="687.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="734.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">DELETE FROM</text>
+<text x="127.0" y="756.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">specialty</text>
+<rect x="40.0" y="833.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="869.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 200</text>
+<text x="127.0" y="891.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">«Специальность</text>
+<text x="127.0" y="913.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">удалена»</text>
+<rect x="272.0" y="687.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="734.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Статус</text>
+<text x="359.0" y="756.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">«неактуально»</text>
+<rect x="272.0" y="833.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="359.0" y="869.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 200 «не</text>
+<text x="359.0" y="891.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">удалена, а</text>
+<text x="359.0" y="913.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">неактуальна»</text>
+<rect x="504.0" y="249.0" width="174" height="116" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="591.0" y="296.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Код 404 «Запись</text>
+<text x="591.0" y="318.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">не найдена»</text>
+<rect x="40.0" y="979.0" width="174" height="58.0" rx="29.0" ry="29.0" fill="white" stroke="black" stroke-width="1.6"/>
+<text x="127.0" y="1008.0" font-family="Times New Roman" font-size="19" text-anchor="middle" dominant-baseline="central">Конец</text></svg>
